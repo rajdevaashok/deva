@@ -1,2 +1,2 @@
 # deva-coding-diary-1 
-print("Hello, World!") c
+print("Hello, World!") cc
